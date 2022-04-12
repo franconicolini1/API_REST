@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "date": "2017-01-01",
+        "weather": "Rainy",
+        "visibility": "Poor",
+        "comment": "Pretty scare flight"
+    },
+    {
+        "id": 2,
+        "date": "2017-02-02",
+        "weather": "Cloudy",
+        "visibility": "Poor",
+        "comment": "Pretty scare flight with clouds"
+    },
+    {
+        "id": 3,
+        "date": "2017-03-03",
+        "weather": "Sunny",
+        "visibility": "Perfect",
+        "comment": "Easy for me baby"
+    },
+    {
+        "id": 4,
+        "date": "2017-04-04",
+        "weather": "Windy",
+        "visibility": "Perfect",
+        "comment": "Pretty scare flight because there was too much wind"
+    }
+]
